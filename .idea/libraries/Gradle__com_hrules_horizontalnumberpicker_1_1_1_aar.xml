@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hrules:horizontalnumberpicker:1.1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/horizontalnumberpicker-1.1.1.aar/4ea75562bced6ef79632679c4e74a545/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/horizontalnumberpicker-1.1.1.aar/4ea75562bced6ef79632679c4e74a545/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/horizontalnumberpicker-1.1.1.aar/4ea75562bced6ef79632679c4e74a545/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hrules/horizontalnumberpicker/1.1.1/4202baa4d3eb5ba21db28a238980c20e5d624f99/horizontalnumberpicker-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
